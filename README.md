@@ -128,4 +128,4 @@ $tag
 
 
 
-by [Korea Press Foundation](https://bigkinds.or.kr) [bareun.ai](https://bareun.ai)
+by [Korea Press Foundation](https://bigkinds.or.kr) / [bareun.ai](https://bareun.ai)
